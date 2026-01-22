@@ -62,14 +62,3 @@ For the exact artifact taxonomy and marker coding, refer to:
 - `documentation_dataset-automaticArtifactRemoval.pdf`
 - `event_markers.xlsx`
 
----
-
-## Repository structure
-
-```text
-dataset-automaticArtifactRemoval/
-├── data/                                     # EEG recordings
-├── documentation_dataset-automaticArtifactRemoval.pdf
-├── event_markers.xlsx                         # event codes / marker definitions
-├── comments_experiment.xlsx                   # experiment notes / comments
-└── README.md
